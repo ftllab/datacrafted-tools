@@ -1,69 +1,47 @@
 <div align="center">
 
-# 🛠️ DataCrafted Tools
+# ⚡ FTL Lab
 
-**Smart data tools, apps & automation — by [Matthieu Lebas](https://github.com/matthieu-lebas)**
+**Practical AI & data tools — by Matthieu Lebas**
 
 [![Gumroad](https://img.shields.io/badge/Buy-Gumroad-e94560?style=flat&logo=gumroad)](https://lebasai.gumroad.com)
 [![Payhip](https://img.shields.io/badge/Buy-Payhip-1abc9c?style=flat)](https://payhip.com/DataCrafted)
 [![Lemon Squeezy](https://img.shields.io/badge/Buy-LemonSqueezy-ffd700?style=flat)](https://datacrafted.lemonsqueezy.com)
-[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/matthieu-lebas)
-
----
-
-**Everything I build, in one place.**  
-Open-source lite tools → Pro desktop apps → Full automation pipelines.
+[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/ftllab)
+[![Etsy](https://img.shields.io/badge/Buy-Etsy-f1641e?style=flat&logo=etsy)](https://www.etsy.com/shop/MindSparkCrafted)
 
 </div>
 
----
-
-## 📦 Open-Source Tools (FREE · Lite Editions)
-
-| Tool | Description | Stars | ⚡ Pro |
-|------|-------------|:-----:|:------:|
-| [**CSV Analyzer Lite**](https://github.com/Matthieu-Lebas/csv-analyzer-lite) | Drop any CSV → instant statistical report. Zero deps. | ⭐ | [Pro](https://payhip.com/DataCrafted) |
-| [**Data Cleaner Lite**](https://github.com/Matthieu-Lebas/data-cleaner-lite) | Auto-detect & fix messy CSV data. Zero deps. | ⭐ | [Pro](https://payhip.com/DataCrafted) |
-| [**Excel Formatter Lite**](https://github.com/Matthieu-Lebas/excel-formatter-lite) | Professional spreadsheet styling from CSV. Zero deps. | ⭐ | [Pro](https://payhip.com/DataCrafted) |
-| [**JSON→CSV Converter Lite**](https://github.com/Matthieu-Lebas/json-csv-converter-lite) | Flatten nested JSON to clean CSV instantly. Zero deps. | ⭐ | [Pro](https://payhip.com/DataCrafted) |
-| [**Awesome Python Data Tools**](https://github.com/Matthieu-Lebas/awesome-python-data-tools) | Curated list of free Python data tools. | ⭐ | — |
+**FTL Lab** (formerly DataCrafted) is a one-person studio building practical AI and data tools that run on your machine — no subscriptions, no cloud lock-in, no tracking. Every product is tested end-to-end before it ships.
 
 ---
 
-## 🎯 Pro Products (Paid · Buy Any Store)
+## 🛠️ Tools (pay once · own forever · macOS)
 
-### 🤖 AI & Automation
+| Product | Price | What it does |
+|---------|:-----:|--------------|
+| [**Voiceover Studio**](https://lebasai.gumroad.com/l/duozqi) | $29 | Local AI voiceovers on your Mac — 2 fully offline voices (Qwen3-TTS, Apple Silicon) + 6 online voices. No cloud upload, no subscription. |
+| [**AI Clone Studio**](https://lebasai.gumroad.com/l/dyghha) | $34.99 | Fine-tune a local LLM on your own writing (MLX/LoRA). Your data never leaves your machine. |
+| [**Scraper-to-Store**](https://lebasai.gumroad.com/l/rltvn) | $24.99 | One command turns public web data into a formatted, ready-to-sell digital product. |
+| [**HSK Anki Decks 1–9**](https://lebasai.gumroad.com/l/yebsxg) | $39.99 | Full HSK 3.0 vocabulary — 10,879 cards, 7 decks with native-quality audio. |
 
-| Product | Price | Links |
-|---------|:-----:|-------|
-| **Content Empire OS** — 1 YAML → 5 formats (Blog, Shorts, Podcast, Social, Newsletter) | **$39** | [Gumroad](https://lebasai.gumroad.com/l/metawy) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
-| **AI Clone Studio** — Fine-tune your writing style on Apple Silicon (MLX LoRA) | **$34** | [Gumroad](https://lebasai.gumroad.com/l/ngldd) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
-| **Zero-Cost AI Startup Kit** — Build & launch with \$0 stack | **$29** | [Gumroad](https://lebasai.gumroad.com/l/pytbhn) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
-| **Scraper-to-Store Pipeline** — Scrape → clean → package → sell (CLI + templates) | **$24** | [Gumroad](https://lebasai.gumroad.com/l/oqyde) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
-| **PromptCraft Pro** — 500+ premium AI prompts (9 categories) | **$19** | [Gumroad](https://lebasai.gumroad.com/l/vyzdj) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
-| **Flux & SDXL Prompt System** — 75 premium image prompts | **$24** | [Gumroad](https://lebasai.gumroad.com/l/famze) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
+Available on [Gumroad](https://lebasai.gumroad.com) · [Payhip](https://payhip.com/DataCrafted) · [Lemon Squeezy](https://datacrafted.lemonsqueezy.com) · [Etsy](https://www.etsy.com/shop/MindSparkCrafted) (3 tools, no HSK).
 
-### 🧠 ML & Fine-Tuning (Apple Silicon)
+---
 
-| Product | Price | Links |
-|---------|:-----:|-------|
-| **MLX LLM Fine-Tuning Playbook** — LoRA & QLoRA on Apple Silicon | **$34** | [Gumroad](https://lebasai.gumroad.com/l/yerjp) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
-| **LoRA Adapters Pack** — Fine-tuning bundle for MLX | **$39** | [Gumroad](https://lebasai.gumroad.com/l/ozouba) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
-
-### 🎨 Creative & Content
-
-| Product | Price | Links |
-|---------|:-----:|-------|
-| **Wallpaper Factory Pro** — 300+ AI wallpapers in 4K (5 styles) | **$24** | [Gumroad](https://lebasai.gumroad.com/l/tdswea) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
-| **Dark Psychology Mastery** — 50 psychological techniques (eBook + Audio) | **$14** | [Gumroad](https://lebasai.gumroad.com/l/ecemaz) · [Payhip](https://payhip.com/DataCrafted) · [LSQ](https://datacrafted.lemonsqueezy.com) |
-
-### 🧩 Apps
+## 📱 Apps (iOS & Android)
 
 | App | Description | Links |
 |-----|-------------|-------|
-| [**FlowTone**](https://github.com/Matthieu-Lebas/flowtone-app) | Master Chinese tones through play — Wordle-like game for Mandarin learners | [Web App](https://github.com/Matthieu-Lebas/flowtone-app) |
-| [**FlowTone Website**](https://github.com/Matthieu-Lebas/flowtone-website) | Official FlowTone landing page | [Repo](https://github.com/Matthieu-Lebas/flowtone-website) |
-| [**Future Crop Streamlit**](https://github.com/Matthieu-Lebas/future-crop-streamlit) | Agricultural data analysis dashboard (Streamlit) | [Repo](https://github.com/Matthieu-Lebas/future-crop-streamlit) |
+| **FlowTone** | Chinese tones memory game | [App Store](https://apps.apple.com/app/id6773288738) · [Google Play](https://play.google.com/store/apps/details?id=com.flowtone.myapp) |
+| **ToneMaster** | HSK 1–9 offline flashcards with native audio | [App Store](https://apps.apple.com/app/id6760612044) · [Google Play](https://play.google.com/store/apps/details?id=com.matthieulebas.chineseteacher) |
+
+---
+
+## ✍️ Blog
+
+Lessons from building and marketing all of the above, in the open:
+[FTL Lab blog](https://ftllab.github.io/datacrafted-blog/) — including a transparent post-mortem of *6 months, 15 tools, 3 stores, 0 sales* and why that changed how the studio ships.
 
 ---
 
@@ -71,9 +49,10 @@ Open-source lite tools → Pro desktop apps → Full automation pipelines.
 
 | Store | URL | Status |
 |:------|:----|:------:|
-| 🟣 **Gumroad** | [lebasai.gumroad.com](https://lebasai.gumroad.com) | ✅ Live |
-| 🔵 **Payhip** | [payhip.com/DataCrafted](https://payhip.com/DataCrafted) | ✅ Live |
-| 🟡 **Lemon Squeezy** | [datacrafted.lemonsqueezy.com](https://datacrafted.lemonsqueezy.com) | ✅ Live |
+| 🟣 Gumroad | [lebasai.gumroad.com](https://lebasai.gumroad.com) | ✅ Live |
+| 🔵 Payhip | [payhip.com/DataCrafted](https://payhip.com/DataCrafted) | ✅ Live |
+| 🟡 Lemon Squeezy | [datacrafted.lemonsqueezy.com](https://datacrafted.lemonsqueezy.com) | ✅ Live |
+| 🟠 Etsy | [etsy.com/shop/MindSparkCrafted](https://www.etsy.com/shop/MindSparkCrafted) | ✅ Live |
 
 ---
 
@@ -81,7 +60,6 @@ Open-source lite tools → Pro desktop apps → Full automation pipelines.
 
 **Built with 🐍 Python · 🍎 Apple Silicon · 🤖 AI**
 
-[![GitHub followers](https://img.shields.io/github/followers/matthieu-lebas?style=social)](https://github.com/matthieu-lebas)
-[![Twitter](https://img.shields.io/badge/-@matthieu_lebas-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/matthieu_lebas)
+Contact: matthieu.lebas.ai@gmail.com
 
 </div>

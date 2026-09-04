@@ -16,6 +16,19 @@
 
 ---
 
+## 🛠️ Open-source tools (free · MIT · zero-dependency)
+
+| Tool | What it does |
+|------|--------------|
+| [**hsk-grader**](hsk-grader/) | Grade any Chinese text by HSK 3.0 vocabulary level, straight from the terminal. |
+| [**voiceover-duck**](voiceover-duck/) | Mix voice over music with automatic ducking — one command, drives your local ffmpeg. |
+| [**md-pages**](md-pages/) | Minimal zero-dependency markdown → static HTML site generator with a clean dark theme. |
+
+Free, MIT-licensed, standard-library-only Python tools. Each ships with tests
+and its own README.
+
+---
+
 ## 🛠️ Tools (pay once · own forever · macOS)
 
 | Product | Price | What it does |
